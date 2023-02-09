@@ -2,7 +2,6 @@ import {
   BrowserRouter,
   Navigate,
   NavLink,
-  NavLinkProps,
   Route,
   Routes,
 } from 'react-router-dom'
